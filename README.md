@@ -20,7 +20,7 @@
 
 This project was developed using the following technologies:
 
-- [React](https://reactnative.dev/)
+- [React](https://reactjs.org/)
 - [Spring](https://spring.io//)
 - [TypeScript](https://www.typescriptlang.org/)
 
