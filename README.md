@@ -5,8 +5,8 @@
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-</p>
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#demo">Demo</a>
 
 <br>
 
@@ -43,6 +43,8 @@ $ yarn install
 App to show graphs
 
 This is a project developed during the Semana Spring React - SDS 3.0.
+
+## Demo
 
 <a href="https://project-graphics.netlify.app">https://project-graphics.netlify.app</a>
 
