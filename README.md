@@ -1,5 +1,5 @@
 <h1 align="center">
-    # Project Graphics
+    Project Graphics
 </h1>
 
 <p align="center">
